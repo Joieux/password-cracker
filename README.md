@@ -18,7 +18,7 @@ This portfolio project showcases:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/password-cracker.git
+git clone https://github.com/joieux/password-cracker.git
 cd password-cracker
 
 # Run standard version
