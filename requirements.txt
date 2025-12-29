@@ -1,0 +1,9 @@
+# No external dependencies required!
+# This project uses only Python standard library
+
+# Python 3.6+ required for:
+# - f-strings
+# - Type hints
+# - concurrent.futures
+# - itertools
+# - hashlib
